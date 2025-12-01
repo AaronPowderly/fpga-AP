@@ -11,7 +11,7 @@ Welcome to my VGA design project. This report will go through my workings in my 
 Summarise the project set-up and design flow. Include a screenshot of your own set-up, for example see the image of my Project Summary window below. Guideline 1 short paragraph.
 The picture below is a screenshot of the project setup. 
 
-<img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/VGAPrjSum.png">
+<img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/images.png">
 
 ### **Template Code**
 The template code we were first given was a simple design that demonstrated how create colour stripes on the VGA based on different RGB values on the current pixel column. The chosen colours are stored in registers and updated every clock cycle unless the reset is active. The registered colours are then sent to the VGA output, which displasy the colour stripes chosen
