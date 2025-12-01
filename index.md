@@ -11,10 +11,7 @@ Welcome to my VGA design project. This report will go through my workings in my 
 Summarise the project set-up and design flow. Include a screenshot of your own set-up, for example see the image of my Project Summary window below. Guideline 1 short paragraph.
 The picture below is a screenshot of the project setup. 
 
-<img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/blob/main/fpga-vga-verilog-main/docs/assets/images/processed-293092FA-7817-4119-A3B0-0FBF2C78E6F7.jpeg">
-<img src="https://raw.githubusercontent.com/AaronPowderly/fpga-vga-verilog-main/docs/assets/images/processed-293092FA-7817-4119-A3B0-0FBF2C78E6F7.jpeg">
-
-<img src="https://raw.githubusercontent.com/AaronPowderly/fgpa-AP/main/fpga-vga-verilog-main/docs/assets/images/processed-293092FA-7817-4119-A3B0-0FBF2C78E6F7.jpeg">
+<img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/VGAPrjSum.png">
 
 ### **Template Code**
 The template code we were first given was a simple design that demonstrated how create colour stripes on the VGA based on different RGB values on the current pixel column. The chosen colours are stored in registers and updated every clock cycle unless the reset is active. The registered colours are then sent to the VGA output, which displasy the colour stripes chosen
