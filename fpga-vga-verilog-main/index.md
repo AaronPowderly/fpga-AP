@@ -19,6 +19,7 @@ The template code we were first given was a simple design that demonstrated how 
 ### **Simulation**
 The simulation process invloves the use of Vivado’s built-in XSIM tool. This is used to observe VGA module responds to different column values over time. The simulation helps identify any mistakes in the logic, such as incorrect colour ranges or timing errors. Overall the simulation acts as a testing stage to ensure the VGA behaves as intended once implemented. 
 ### **Synthesis**
+<img src="https://raw.githubusercontent.com/AaronPowderly/fpga-vga-verilog/main/docs/assets/images/processed-293092FA-7817-4119-A3B0-0FBF2C78E6F7.jpeg">
 
 ### **Demonstration**
 Perhaps add a picture of your demo. Guideline: 1/2 sentences.
