@@ -1,1 +1,1 @@
-# fpga-AP
+# fpga-vga-verilog
