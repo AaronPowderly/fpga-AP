@@ -24,18 +24,20 @@ Perhaps add a picture of your demo. Guideline: 1/2 sentences.
 
 ## **My VGA Design Edit**
 My chosen idea was pixel art of the Superman logo. At first the idea was complex to me but i decided i wanted challenge myself, the idea was more complex then I first thought. I used online reference match the appropriate colours to match the Superman logo.
+<img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/images.png" width=105%>
 ### **Code Adaptation**
 I first began by changing the code to get an idea of how I could start. I slightly changed the code of the orignal colour stripes just changing one of the colours. I then moved on to focusing on how i wnated my image to look, I changed the background by default to blue to match the Superman logo then created where I wanted put the red of the Superman logo. I then began reasearch and understanding of how I to write the code for creating pixel art of the Superman logo. I struggled to get my head wrapped around the idea of columns and rows, and how to manipulate them. My first idea was to try brute force it, but after a week of struggling to get much results, I had help from another student which helped me understand.
 I drew out at half a page of 640x480 grid, and marked down the boxes and layout of how i wanted my project to look. This really helped adapt the code for the columns and rows, I divided each square by 16. So for each 16 row and columns I would designate it a colour example row 207 to 223 and column 127 to 143 is designated black for the outline. 
 
 
-<img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/images.png">
+<img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-75B37590-DCDD-4AC7-A77F-EDCCF844C32F.jpeg" width=50%>
+
 ### **Simulation**
 Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
 ### **Synthesis**
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
 ### **Demonstration**
-If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
+
 
 ## **More Markdown Basics**
 This is a paragraph. Add an empty line to start a new paragraph.
