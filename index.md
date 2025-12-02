@@ -40,6 +40,8 @@ Describe the synthesis & implementation outputs for your design, are there any d
 ### **Demonstration**
 
 
+<img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-293092FA-7817-4119-A3B0-0FBF2C78E6F7.jpeg" width=50%>
+
 ## **More Markdown Basics**
 This is a paragraph. Add an empty line to start a new paragraph.
 
