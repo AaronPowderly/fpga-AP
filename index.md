@@ -42,7 +42,10 @@ This is my first chnang in code, just changing one of the colour in the orignal 
 <img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-8EDC1D43-4007-4DA3-B010-C2E64787F44F.jpeg" width=50%>
 Then I began with setting the background colour to blue decided where i wnated the red background as well.
 <img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-293092FA-7817-4119-A3B0-0FBF2C78E6F7.jpeg" width=50%>
+Beginning of the outline of the Superman Logo
+<img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-390987BD-60FF-429E-8AEE-E81CB86BD918.jpeg" width=50%>
 
+<img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-390987BD-60FF-429E-8AEE-E81CB86BD918.jpeg" width=50%>
 ## **More Markdown Basics**
 This is a paragraph. Add an empty line to start a new paragraph.
 
