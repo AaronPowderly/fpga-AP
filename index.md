@@ -20,10 +20,11 @@ The simulation process invloves the use of Vivado’s built-in XSIM tool. This i
 ### **Synthesis**
 The synthesis process converts the verilog code into representations such as lookup tables, registers, timing summaries and usage reports. Implementation then places and routes the components on the actual FPGA ensuring timing requirements are correct and the design can run on the divice. Any issues such as timing voilations or resource conflicts are flagged so they can be fixed before generating the bitstream.
 
-
+### **Implementation**
+<img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-01D0E260-A425-4606-AFCF-83B27FFCC2A0.jpeg" width=50%>
 
 ### **Demonstration**
-Perhaps add a picture of your demo. Guideline: 1/2 sentences.
+
 
 ## **My VGA Design Edit**
 My chosen idea was pixel art of the Superman logo. At first the idea was complex to me but i decided i wanted challenge myself, the idea was more complex then I first thought. I used online reference match the appropriate colours to match the Superman logo.
