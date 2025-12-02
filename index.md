@@ -20,7 +20,7 @@ The simulation process invloves the use of Vivado’s built-in XSIM tool. This i
 The synthesis process converts the verilog code into representations such as lookup tables, registers, timing summaries and usage reports. Implementation then places and routes the components on the actual FPGA ensuring timing requirements are correct and the design can run on the divice. Any issues such as timing voilations or resource conflicts are flagged so they can be fixed before generating the bitstream.
 
 ### **Implementation**
-<img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-01D0E260-A425-4606-AFCF-83B27FFCC2A0.jpeg" width=50%>
+<img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-F6722851-5406-47C7-BFF0-1C1596C9265E.jpeg" width=50%>
 
 ### **Demonstration**
 This is an image of my demonstration. This shows it running on my Basys3 board therefore showing that my VGA design runs as expected on the hardware.
@@ -40,21 +40,25 @@ I drew out at half a page of 640x480 grid, and marked down the boxes and layout 
 ### **Simulation**
 Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
 ### **Synthesis**
+The image below shows the schematic after the synthesis of FPGA design created by Vivado, showing the logical structure made after the code is synthesized into the hardware.
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
+
+<img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-01D0E260-A425-4606-AFCF-83B27FFCC2A0.jpeg" width=50%>
+
 ### **Demonstration**
-This is the Basys3 board I used. 
+- This is the Basys3 board I used. 
 
 <img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-69FFF612-822D-4BA8-A1E7-94C9AE4B437E.jpeg" width=50%>
 
-This is my first change in code, just changing one of the colour in the orignal code of the colour stripes.
+- This is my first change in code, just changing one of the colour in the orignal code of the colour stripes.
 
 <img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-8EDC1D43-4007-4DA3-B010-C2E64787F44F.jpeg" width=50%>
 
-Then I began with setting the background colour to blue decided where i wnated the red background as well.
+- Then I began with setting the background colour to blue decided where i wnated the red background as well.
 
 <img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-293092FA-7817-4119-A3B0-0FBF2C78E6F7.jpeg" width=50%>
 
-Beginning of the outline of the Superman Logo.
+- Beginning of the outline of the Superman Logo.
 
 <img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-390987BD-60FF-429E-8AEE-E81CB86BD918.jpeg" width=50%>
 
@@ -62,20 +66,9 @@ Beginning of the outline of the Superman Logo.
 
 <img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-CB95B7F3-1FFA-4C42-BFEE-13DB14E70AB4.jpeg" width=50%>
 
-## **More Markdown Basics**
-This is a paragraph. Add an empty line to start a new paragraph.
-
-Font can be emphasised as *Italic* or **Bold**.
-
-Code can be highlighted by using `backticks`.
+## **References**
+[1] PixilArt, Used as inspiration for my design, Available Online: [Superman Logo](https://www.pixilart.com/draw/the-superman-logo-066188a624)
 
 Hyperlinks look like this: [GitHub Help](https://help.github.com/).
 
-A bullet list can be rendered as follows:
-- vectors
-- algorithms
-- iterators
 
-Images can be added by uploading them to the repository in a /docs/assets/images folder, and then rendering using HTML via githubusercontent.com as shown in the example below.
-
-<img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/VGAPrjSrcs.png">
