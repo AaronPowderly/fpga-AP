@@ -38,6 +38,9 @@ Show how you simulated your own design. Are there any things to note? Demonstrat
 ### **Synthesis**
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
 ### **Demonstration**
+This is the Basys3 board I used 
+
+
 This is my first change in code, just changing one of the colour in the orignal code of the colour stripes.
 
 <img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-8EDC1D43-4007-4DA3-B010-C2E64787F44F.jpeg" width=50%>
