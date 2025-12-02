@@ -45,7 +45,9 @@ Then I began with setting the background colour to blue decided where i wnated t
 Beginning of the outline of the Superman Logo
 <img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-390987BD-60FF-429E-8AEE-E81CB86BD918.jpeg" width=50%>
 
-<img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-390987BD-60FF-429E-8AEE-E81CB86BD918.jpeg" width=50%>
+<img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-7E5E5851-E559-43D4-9B33-2FF9E098B6CE.jpeg" width=50%>
+
+
 ## **More Markdown Basics**
 This is a paragraph. Add an empty line to start a new paragraph.
 
