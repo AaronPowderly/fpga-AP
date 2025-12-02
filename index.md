@@ -34,7 +34,7 @@ My chosen idea was pixel art of the Superman logo. At first the idea was complex
 I first began by changing the code to get an idea of how I could start. I slightly changed the code of the orignal colour stripes just changing one of the colours. I then moved on to focusing on how i wnated my image to look, I changed the background by default to blue to match the Superman logo then created where I wanted put the red of the Superman logo. I then began reasearch and understanding of how I to write the code for creating pixel art of the Superman logo. I struggled to get my head wrapped around the idea of columns and rows, and how to manipulate them. My first idea was to try brute force it, but after a week of struggling to get much results, I had help from another student which helped me understand.
 I drew out at half a page of 640x480 grid, and marked down the boxes and layout of how i wanted my project to look. This really helped adapt the code for the columns and rows, I divided each square by 16. So for each 16 row and columns I would designate it a colour example row 207 to 223 and column 127 to 143 is designated black for the outline. 
 
-
+[1]
 <img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-75B37590-DCDD-4AC7-A77F-EDCCF844C32F.jpeg" width=50%>
 
 ### **Simulation**
@@ -68,7 +68,7 @@ Describe the synthesis & implementation outputs for your design, are there any d
 
 ## **References**
 [1] PixilArt, Used as inspiration for my design, Available Online: [Superman Logo](https://www.pixilart.com/draw/the-superman-logo-066188a624)
-
+[2] ChatGPT, Used to help understand Simulation and Synthesis, Available Online: [ChatGPT](https://chatgpt.com/)
 Hyperlinks look like this: [GitHub Help](https://help.github.com/).
 
 
