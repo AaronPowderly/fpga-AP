@@ -38,7 +38,7 @@ Show how you simulated your own design. Are there any things to note? Demonstrat
 ### **Synthesis**
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
 ### **Demonstration**
-This is my first change in code, just changing one of the colour in the orignal code of the colour stripes
+This is my first change in code, just changing one of the colour in the orignal code of the colour stripes.
 
 <img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-8EDC1D43-4007-4DA3-B010-C2E64787F44F.jpeg" width=50%>
 
@@ -46,7 +46,7 @@ Then I began with setting the background colour to blue decided where i wnated t
 
 <img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-293092FA-7817-4119-A3B0-0FBF2C78E6F7.jpeg" width=50%>
 
-Beginning of the outline of the Superman Logo
+Beginning of the outline of the Superman Logo.
 
 <img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-390987BD-60FF-429E-8AEE-E81CB86BD918.jpeg" width=50%>
 
