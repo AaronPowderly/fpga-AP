@@ -8,8 +8,7 @@ categories: demo
 Welcome to my VGA design project. This report will go through my workings in my project, how I attempted to create the Superman logo, and the serval challenges I encountered along the way.
 
 ### **Project Set-Up**
-Summarise the project set-up and design flow. Include a screenshot of your own set-up, for example see the image of my Project Summary window below. Guideline 1 short paragraph.
-The picture below is a screenshot of the project setup. 
+This is my Vivado project summary it shows the build status and configuration of the FPGA design for the Artix 7 device. Synthesis is marked with a few warnings, while implementation has successfully completed routing with only two warnings. It also lists project settings such as the top-level module VGATop. The project is fully configured, and the last implementation run has completed without critical issues. The summary is for an overview of build progress, to help verify that the design flow has been completed correctly before generating the final bitstream. 
 <img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/Project_Summary.png">
 
 ### **Template Code**
@@ -24,7 +23,9 @@ The synthesis process converts the verilog code into representations such as loo
 <img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-01D0E260-A425-4606-AFCF-83B27FFCC2A0.jpeg" width=50%>
 
 ### **Demonstration**
+This is an image of my demonstration. This shows it running on my Basys3 board therefore showing that my VGA design runs as expected on the hardware.
 
+<img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-CB95B7F3-1FFA-4C42-BFEE-13DB14E70AB4.jpeg" width=50%>
 
 ## **My VGA Design Edit**
 My chosen idea was pixel art of the Superman logo. At first the idea was complex to me but i decided i wanted challenge myself, the idea was more complex then I first thought. I used online reference match the appropriate colours to match the Superman logo.
