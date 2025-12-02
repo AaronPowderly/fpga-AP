@@ -20,6 +20,8 @@ The simulation process invloves the use of Vivado’s built-in XSIM tool. This i
 ### **Synthesis**
 The synthesis process converts the verilog code into representations such as lookup tables, registers, timing summaries and usage reports. Implementation then places and routes the components on the actual FPGA ensuring timing requirements are correct and the design can run on the divice. Any issues such as timing voilations or resource conflicts are flagged so they can be fixed before generating the bitstream.
 
+
+
 ### **Demonstration**
 Perhaps add a picture of your demo. Guideline: 1/2 sentences.
 
@@ -38,8 +40,9 @@ Show how you simulated your own design. Are there any things to note? Demonstrat
 ### **Synthesis**
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
 ### **Demonstration**
-This is the Basys3 board I used 
+This is the Basys3 board I used. 
 
+<img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-69FFF612-822D-4BA8-A1E7-94C9AE4B437E.jpeg" width=50%>
 
 This is my first change in code, just changing one of the colour in the orignal code of the colour stripes.
 
