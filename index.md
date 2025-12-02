@@ -68,6 +68,7 @@ Describe the synthesis & implementation outputs for your design, are there any d
 
 ## **References**
 [1] PixilArt, Used as inspiration for my design, Available Online: [Superman Logo](https://www.pixilart.com/draw/the-superman-logo-066188a624)
+
 [2] ChatGPT, Used to help understand Simulation and Synthesis, Available Online: [ChatGPT](https://chatgpt.com/)
 
 
