@@ -37,9 +37,6 @@ I drew out at half a page of 640x480 grid, and marked down the boxes and layout 
 [1]
 <img src="https://raw.githubusercontent.com/AaronPowderly/fpga-AP/main/docs/assets/images/processed-75B37590-DCDD-4AC7-A77F-EDCCF844C32F.jpeg" width=50%>
 
-### **Simulation**
-[2]
-Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
 ### **Synthesis**
 [2]
 The image below shows the schematic after the synthesis of FPGA design created by Vivado, showing the logical structure made after the code is synthesized into the hardware. The diagram displays input buffers, lookup tables, flip-flops and output buffers. Together these form the logic required to drive the RGB output signals to create the VGA interface, it provides a clear view of how the synthesized internal signals such as color values, clock, and reset into the registers and logic blocks that produce the final output.
@@ -70,7 +67,7 @@ The image below shows the schematic after the synthesis of FPGA design created b
 ## **References**
 [1] PixilArt, Used as inspiration for my design, Available Online: [Superman Logo](https://www.pixilart.com/draw/the-superman-logo-066188a624)
 
-[2] ChatGPT, Used to help understand Simulation and Synthesis, Available Online: [ChatGPT](https://chatgpt.com/)
+[2] ChatGPT, Used to help understand Synthesis, Available Online: [ChatGPT](https://chatgpt.com/)
 
 
 
